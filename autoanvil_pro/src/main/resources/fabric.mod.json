@@ -1,0 +1,9 @@
+
+{
+ "schemaVersion":1,
+ "id":"autoanvil",
+ "version":"3.0",
+ "name":"AutoAnvil Pro",
+ "environment":"client",
+ "entrypoints":{"client":["com.autoanvil.client.AutoAnvilClient"]}
+}
